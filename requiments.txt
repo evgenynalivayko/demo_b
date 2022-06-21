@@ -1,0 +1,5 @@
+pytest
+selenium==4.2.0
+selene==2.0.0b4
+psycopg2
+allure-pytest

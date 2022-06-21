@@ -1,0 +1,1 @@
+('Zolotaya Ribka', 1, 2)
